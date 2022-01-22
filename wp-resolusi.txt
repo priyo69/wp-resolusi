@@ -1,0 +1,4 @@
+WP Resolusi
+- Fokus untuk membuat program Document Management System
+- Membuat dokumentasi pembuatan DMS
+- Membuat monitoring sensor menggunakan aplikasi web base dan database mySQL
